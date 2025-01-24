@@ -1,4 +1,4 @@
-package com.studyProject.demos.DesignPattern.Behavioral.State;
+package com.studyProject.demos.DesignPattern.Behavioral.State.common;
 
 //关闭状态
 public class ClosingState extends LiftState {

@@ -1,4 +1,4 @@
-package com.studyProject.demos.DesignPattern.Behavioral.State;
+package com.studyProject.demos.DesignPattern.Behavioral.State.common;
 
 //环境角色
 public class Context {

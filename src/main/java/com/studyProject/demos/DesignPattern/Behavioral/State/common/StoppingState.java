@@ -1,4 +1,4 @@
-package com.studyProject.demos.DesignPattern.Behavioral.State;
+package com.studyProject.demos.DesignPattern.Behavioral.State.common;
 
 //停止状态
 public class StoppingState extends LiftState {

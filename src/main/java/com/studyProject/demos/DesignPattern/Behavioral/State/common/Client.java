@@ -1,4 +1,4 @@
-package com.studyProject.demos.DesignPattern.Behavioral.State;
+package com.studyProject.demos.DesignPattern.Behavioral.State.common;
 
 //状态模式
 public class Client {

@@ -1,4 +1,4 @@
-package com.studyProject.demos.DesignPattern.Behavioral.State;
+package com.studyProject.demos.DesignPattern.Behavioral.State.common;
 
 //抽象状态类
 public abstract class LiftState {
